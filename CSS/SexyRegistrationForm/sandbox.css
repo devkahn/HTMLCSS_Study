@@ -29,8 +29,8 @@
     border: solid 1px #e6e6e6;
     border-bottom-width: 3px;
     border-radius: 5px;
-    -webkit-transform: all 0.3s ease;
-    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+            transition: all 0.3s ease;
     outline: none;
    }
 
